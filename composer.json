@@ -1,0 +1,8 @@
+{
+    "name":"Autoload Basic",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\":"src/"
+        }
+    }
+}
